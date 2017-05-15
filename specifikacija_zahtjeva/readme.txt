@@ -1,5 +1,0 @@
-- reference u uglatim zagradama
-- napisati sto je konkretno u bazi podataka ( lokalno, ne online.. )
-- specifikacija zahtjeva? sto se smije sto se ne smije brisati, sigurnost podataka od brisanja u bazi podataka
-- svaka od konkretnih zadaca treba imati svoju tocku 
-- error u sadrzaju lol
